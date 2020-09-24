@@ -3,3 +3,4 @@
   (doom-modeline-mode 1))
 
 (provide 'setup-interface)
+

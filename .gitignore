@@ -2,3 +2,7 @@ eshell/
 auto-save-list/
 elpa/
 straight/
+eclipse.jdt.ls/
+workspace/
+.cache
+.lsp*
