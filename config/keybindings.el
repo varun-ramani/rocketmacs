@@ -23,4 +23,12 @@
  "l" 'org-agenda-list
  "a" 'org-agenda-file-to-front)
 
+;; Keybindings for projectile
+(general-define-key
+ :keymaps 'normal
+ :prefix "SPC p"
+
+ "f" 'counsel-projectile-find-file
+ "p" 'counsel-projectile-switch-project)
+
 (provide 'keybindings)
