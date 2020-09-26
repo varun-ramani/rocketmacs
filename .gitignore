@@ -4,5 +4,6 @@ elpa/
 straight/
 eclipse.jdt.ls/
 workspace/
+projectile*
 .cache
 .lsp*
