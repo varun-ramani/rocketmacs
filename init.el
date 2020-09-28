@@ -21,6 +21,7 @@
 
 (require 'setup-packages)
 
+(require 'setup-evil)
 (require 'setup-delight)
 (require 'setup-ivy)
 (require 'setup-projectile)
