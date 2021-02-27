@@ -21,7 +21,6 @@
 
 (require 'setup-packages)
 
-(require 'setup-evil)
 (require 'setup-delight)
 (require 'setup-ivy)
 (require 'setup-projectile)
@@ -34,8 +33,6 @@
 (require 'support-java)
 (require 'support-elisp)
 (require 'support-cpp)
-
-(require 'keybindings)
 
 (use-package doom-themes)
 (load-theme 'doom-city-lights t)

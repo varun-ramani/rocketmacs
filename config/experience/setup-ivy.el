@@ -3,7 +3,8 @@
   :defer t)
 
 (use-package counsel
-  :straight
+  :straight t
+  :defer t
   :delight counsel-mode
   :init (counsel-mode))
 
